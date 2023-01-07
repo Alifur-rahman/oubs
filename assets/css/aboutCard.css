@@ -1,0 +1,255 @@
+
+/*shakil about text css*/
+
+
+.sk-about-text{
+    padding-top: 240px !important;
+    padding-top: 15rem !important;
+    background: var(--header-bg);
+}
+.sk-about-img {
+    width: 100%;
+    height: 480px;
+    height: 30rem;
+}
+.sk-about-img img {
+    width: 100%;
+    height: 100%;
+}
+.sk-about-info h2{
+    color: var(--background);
+}
+.sk-about-info h4{
+    color: var(--background);
+}
+.sk-about-info p {
+    color: #AEA593;
+    font-family: 'Raleway', sans-serif; 
+}
+.sk-about-info h2 {
+    color: var(--background);
+    margin-bottom: 48px;
+    margin-bottom: 3rem;
+    font-size: 48px;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.sk-about-info h4 {
+    color: var(--background);
+    font-size: 25.6px;
+    font-size: 1.6rem;
+    margin-bottom: 8px;
+    margin-bottom: 0.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+} 
+.sk-company-name{
+    color: var(--background);
+    text-transform: capitalize; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*alifur card design css*/
+
+
+#AL-team {
+    background: #eee !important;
+    padding: 40px 0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #108d6f;
+    border-color: #108d6f;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--background);
+    border-color: var(--background);
+}
+
+section .AL-section-title{
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#AL-team .card {
+    border: none; 
+    border-left: 4.8px solid var(--background); 
+    border-left: 0.3rem solid var(--background);
+    border-radius: 10px;
+}
+.card-text { 
+    font-family: 'Raleway', sans-serif;
+    margin-top: 16px;
+    margin-top: 1rem;
+    color: var(--header-bg);
+    padding: 0 16px;
+    padding: 0 1rem;
+}
+
+.AL-hover-flip:hover .AL-flip-backside {
+    -webkit-transform: rotateY(0deg);
+            transform: rotateY(0deg);
+    border-radius: 10px;
+
+}
+
+.AL-hover-flip:hover .AL-flip-frontside{
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+}
+
+.AL-hover-flip {
+    -webkit-transition: 1s;
+    transition: 1s;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.AL-flip-frontside {
+    position: relative;
+    z-index: 2;
+}
+
+.AL-flip-backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.AL-flip-frontside,
+.AL-flip-backside {
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+    -webkit-transition: 1s;
+    transition: 1s;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+}
+
+.AL-flip-frontside .card,
+.AL-flip-backside .card {
+    min-height: 312px;
+}
+
+.AL-flip-backside .card a {
+    font-size: 18px;
+    color: var(--background);
+}
+
+.AL-flip-frontside .card .card-title, .AL-flip-backside .card .card-title {
+    color: var(--background);
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+.AL-flip-frontside .card .card-body img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border: 2px solid var(--background);
+    margin-bottom: 5px;
+}
+.AL-flip-frontside span {
+    font-size: 14px;
+    color: var(--background);
+}
+.card-body.text-center.mt-4 {
+    padding: 20px 15px;
+}
+
+
+/* my bar  */
+.AL_my_bar {
+    height: 4px;
+    background-image: -webkit-linear-gradient(left,#f7bb07 0%,#f7020e 100%);
+    background-image: linear-gradient(to right,#f7bb07 0%,#f7020e 100%);
+    position: fixed;
+    top: 0px;
+    left: 0;
+    z-index: 999999;
+    border-radius: 0px 10px 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+/* draggable css  */
+
+.AL-hover-flip {
+    width: 100%;
+    max-width: 98%;
+    margin: auto;
+}
+
+.main-canvas {
+    position: relative;
+    height: 650px;
+    -webkit-transition: 1.5s;
+    transition: 1.5s;
+}
+.box{
+    position: absolute;
+    /* width: 33.33%; */
+    cursor: move;
+    max-height: 312px;
+}
+
+
+.box1 { 
+    left: 0;
+    top: 0;  
+}
+.box2 {
+    left: 378px;
+    top: 0;
+}
+.box3 {
+    right: 0;
+    top: 0;
+}
+.box4 {
+    left: 0;
+    bottom: 0;
+}
+.box5 { 
+    left: 372px; 
+    bottom: 0; 
+}
+.box6 { 
+    right: 0; 
+    bottom: 0;  
+}

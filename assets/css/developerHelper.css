@@ -1,0 +1,145 @@
+ /*********************************/
+  /******1.Develoment helper css AL ****/
+ /********************************/
+ #successMSGdiv {
+	/* display: none; */
+	visibility: hidden;
+	position: fixed;
+	top: 0px;
+	right: -50%;
+	z-index: 9999999;
+	width: 330px;
+     padding: 31px 0;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+#errorMSGdiv {
+	/* display: none; */
+	visibility: hidden;
+	position: fixed;
+	top: 0px;
+	right: -50%;
+	z-index: 999999;
+	width: 330px;
+     padding: 45px 0;
+     -webkit-transition: 1s;
+     transition: 1s;
+}
+.fas.fa-times.msgIcon {
+	position: absolute;
+	top: 0;
+	right: 0%;
+	padding: 12px;
+     cursor: pointer;
+     -webkit-transition: .4s;
+     transition: .4s;
+     border-radius: 5px;
+}
+#successIcon:hover {
+	background: #f7f7f7;
+	box-shadow: 1px 1px 23px #fff;
+}
+#errorMSGdiv:hover{
+  background: #ffccd1;
+	box-shadow: 1px 1px 23px #fff;
+}
+
+/* PHP erro message  */
+#phpAlert {
+	text-align: center;
+	padding: 15px 15px;
+	position: absolute;
+	top: 50%;
+	z-index: 999999;
+	right: 0;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+/* header menu li img css  */
+.menu_item_img {
+	width: 30px;
+	height: 30px;
+	-o-object-fit: cover;
+	   object-fit: cover;
+	display: inline-block;
+}
+.menu_item_img img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	border: 1.7px solid;
+}
+
+
+/* Varify alert area css  */
+.AL_verify_alert_area {
+	padding-top: 15px;
+}
+.AL_verify_alert_area input {
+	margin: 8px 0;
+}
+.code_form {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-ms-flex-line-pack: center;
+	    align-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+#m_submit_form,
+#e_submit_form {
+	display: none;
+}
+/* my post area sold out status css  */
+.Al_sold_out_stutus {
+	position: absolute;
+	width: 100%;
+	height: auto;
+	top: 31%;
+	left: 0;
+	-webkit-transition: .5s;
+	transition: .5s;
+	/* visibility: hidden; */
+}
+.Al_sold_out_stutus img {
+	width: 100%;
+	height: 10%;
+	-o-object-fit: cover;
+	   object-fit: cover;
+	-webkit-transition: .5s;
+	transition: .5s;
+}
+.al_submit_button {
+	color: #fff;
+	-webkit-transition: ease .3s;
+	transition: ease .3s;
+	display: block;
+	border-radius: 6px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-weight: 600;
+	text-shadow: 0px 1px 1px #000;
+}
+
+ 	/************************************************/
+  /******1.Develoment forgot password css SHAKIL****/
+ /************************************************/
+
+ #resetPasswordForm{
+ 	display: none;
+ }
+ #codeForm{
+ 	display: none;
+ }

@@ -1,0 +1,410 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.cmt_area{
+	  /*background: #e2e1e0;*/
+}
+.technology h2{
+	text-transform: uppercase;
+	font-size: 56px;
+	font-size: 3.5rem;
+	font-weight: 600;
+}
+.card{
+	border:none;
+	background: #fff;  
+	box-shadow: 0 3px 8px #0000003d;
+	-webkit-transition: all ease 0.3s;
+	transition:all ease 0.3s;
+}
+.sh_card-img{
+	overflow:hidden;
+	position: relative;
+	height: 416px;
+	height: 26rem;
+}
+.sh_card-img img{
+	width: 100%;
+	height: 100%;
+	-o-object-fit: cover;
+	   object-fit: cover; 
+	-webkit-transition: all ease 0.3s; 
+	transition:all ease 0.3s;
+}
+.card .sh_card-img:hover img{
+	-webkit-transform:scale(1.07);
+	        transform:scale(1.07);
+}
+/*books_img-oberlay*/
+.sh_boks_overlay{
+	position: absolute;
+	top:0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	width:100%;
+	height: 100%;
+	border: 5px solid #3498DD;
+	background: rgba(0,0,0,0.5);
+	-webkit-transform:scale(0);
+	        transform:scale(0);
+	-webkit-transition: ease all 0.3s;
+	transition: ease all 0.3s;
+}
+.sh_boks_overlay{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+
+}
+.sh_boks_overlay a{
+	width: 64px;
+	width:4rem;
+	height: 64px;
+	height: 4rem;
+	line-height: 65.6px;
+	line-height: 4.1rem;
+	text-align: center;
+	background: #ff0;
+	border-radius: 50%;
+	background: #3498DD;
+}
+.sh_boks_overlay a i{
+	color:#fff;
+}
+.card .sh_card-img:hover .sh_boks_overlay{
+	-webkit-transform:scale(1);
+	        transform:scale(1);
+}
+.sh_card_body{
+	position: relative;
+}
+.sh_card_body h4, p{
+	font-size: 16px;
+	line-height: 25px;
+}
+.sh_card_body h4:first-child{
+	font-weight: 700;
+}
+.sh_card{
+	margin-bottom: 48px;
+	margin-bottom: 3rem;
+}
+a.card-link {
+    color: #fff;
+    -webkit-transition: ease .3s;
+    transition: ease .3s;
+    display: block;
+    border-radius: 6px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    font-weight: 600;
+    text-shadow: 0px 1px 1px #000;
+}
+a.card-link:hover .Sh_right_btn {
+    left: 4px;
+}
+.sh_semester{
+	text-transform: uppercase;
+	text-align: center;
+}
+.sh_semester h3 {
+	font-size: 30px;
+	font-weight: 600;
+	border-bottom: 3px solid #ddd;
+	width: 80%;
+	margin: 0 auto;
+	padding-bottom: 32px;
+	padding-bottom: 2rem;
+	position: relative;
+}
+.sh_semester h3:after {
+	position: absolute;
+	content: "";
+	left: 0;
+	right: 0;
+	bottom: -32%;
+	width: 48px;
+	width: 3rem;
+	height: 48px;
+	height: 3rem;
+	background: #3498db;
+	margin: 0 auto;
+	-webkit-transform: rotate(45deg);
+	        transform: rotate(45deg);
+}
+.sh_semester h3:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    bottom: -11px;
+    width: 32px;
+    width: 2rem;
+    height: 32px;
+    height: 2rem;
+    background: #2855d4;
+    margin: 0 auto;
+    z-index: 2;
+    box-shadow: 0px 0px 3px #ffffff8c;
+}
+
+
+span.Sh_card_left {
+    padding: 5px 7px;
+    background: #212529;
+    border-radius: 6px 0 0 6px;
+    box-shadow: 0 3px 0 #212529;
+    z-index: 2;
+}
+span.Sh_card_right {
+    padding: 5px 10px;
+    background: #3498DB;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 0 3px 0 #025791;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 100%;
+    position: relative;
+}
+span.Sh_right_btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0;
+    height: 100%;
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+    box-shadow: -5px 0 0 0 #212529, -5px 3px 0 0 #212529;
+    border-left: 5px solid #212529;
+    -webkit-transition: all .15s;
+    transition: all .15s;
+    -webkit-transition-property: left,right;
+    transition-property: left,right;
+}
+
+.card_button {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background: #dddddd5e;
+	padding: 2px 5px 5px;
+}
+.sh_Books_Price{
+	color:#f57224;
+}
+.sh_overly_buy_btn{
+	position: absolute;
+	top:0;
+	left:0;
+	width:100%;
+	padding: 0 48px;
+	padding:0 3rem;
+	height: 100%;
+	background: rgba(255,255,255,0.8);
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	visibility: hidden;
+	-webkit-transition: ease all 0.3s;
+	transition:ease all 0.3s;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.sh_card_body:hover .sh_overly_buy_btn{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	visibility: visible;
+}
+.sh_card_body:hover .sh_overly_buy_btn a{
+	visibility: visible;
+}
+
+.Sh_card_rightf{
+	color:#f57224;
+}
+
+
+.card-link:hover {
+	text-decoration: none;
+	color: #fff;
+}
+.technology {
+	margin-top: 128px;
+	margin-top: 8rem;
+}
+
+/*selling form inputerrors */
+.input_errors {
+	color: #f00;
+	font-size: 18px;
+}
+
+/*buy book page design*/
+
+
+.buy_book_section{
+	background: #eff0f5;
+    padding-top: 224px;
+    padding-top: 14rem;
+    padding-bottom: 96px;
+    padding-bottom:6rem;
+}
+.buy-book {
+    box-shadow: 0px 1px 6px #8c8a8a75;
+    background: #fff;
+}
+.buy-b-img,
+.buy-b-content{
+	width:100%;
+    height: 912px;
+    height: 57rem;
+    padding: 32px;
+    padding: 2rem;
+}
+.buy-b-content {
+    background: #eff0f3a1;
+}
+.buy-b-img img{
+	width:100%;
+	height:100%;
+	border:1px solid #e6e0e0;
+	-o-object-fit: cover;
+	   object-fit: cover;
+}
+.buy-b-content h3{
+	font-size:32px;font-weight: 600;
+	margin-bottom: 16px;
+	margin-bottom: 1rem;
+	color:#000000b0;
+}
+.buy-b-content .b_price{
+	margin-bottom: 24px;
+	margin-bottom: 1.5rem;
+}
+.buy-b-content .b_price span{
+	color: #FF0000;
+	font-weight: 500;
+}
+p.u_name {
+    margin-top: 48px;
+    margin-top: 3rem;
+}
+.buy-b-content p{
+	font-size:20px;
+	font-weight: 400;
+	line-height: 35px;
+}
+.buy-b-content p strong {
+	color: #0000009c;
+	font-family: 'Raleway', sans-serif;
+}
+.buy-b-content p span {
+	color: var(--header-bg);
+	font-family: 'Raleway', sans-serif;
+}
+.buy-b-content p.contact_error {
+	color: #ff0000;
+	font-family: 'Raleway', sans-serif;
+}
+.buy-b-content p.contact_error.sh_not-show-data {
+	margin-top: 64px;
+	margin-top: 4rem;
+}
+.sh_btn{
+	margin-top: 32px;
+	margin-top: 2rem;
+}
+
+/*zoom image plgin css*/
+.zoomLens {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+/*SEMESTER SHOWMORE BUTTON*/
+
+.show_more {
+    text-align: center;
+    display: block;
+    padding: 8px 15px;
+    width: 320px;
+    width: 20rem;
+    margin: 0 auto;
+    background: #3498db;
+    color: #fff;
+    box-shadow: 0px 2px 3px #636060e0;
+    font-weight: 500;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-transition: all ease 0.3s;
+    transition:all ease 0.3s;
+}
+.show_more:hover{
+	color:#000;
+}
+
+/*pagination button design*/
+
+.page-link {
+    padding: 6px 24px;
+    padding: 0.375rem 1.50rem;
+    background: #3498db;
+    color: #fff;
+    box-shadow: 0 1px 2px #928e8e;
+}
+.page-link:hover, 
+.page-link.active{
+    z-index: 2;
+    color: #0a58ca;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+/*index page form design*/
+#success {
+	font-size: 18px;
+	color: #f00;
+	background: #FDD;
+	width: 80%;
+	padding: 8px;
+	border-radius: 3px;
+	display: none;
+}

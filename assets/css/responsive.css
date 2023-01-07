@@ -1,0 +1,507 @@
+ 
+
+/*=============== SG  Reasponsive Start ====================*/
+
+@media all and (max-width: 991px){
+	.dashboard-button {
+		padding: 3rem 2rem 1rem 2rem;
+	}
+	.sg-box-1 { 
+		margin:1rem auto; 
+	}
+}
+
+@media all and (max-width: 768px){
+	.sg-banner-area h1 {
+		font-size: 2.5rem;
+		padding-bottom: 2rem;
+	}
+	.sg-fullset-search h2, 
+	.sg-single-search h2 {
+		font-size: 2.5rem;
+}
+	.sg-banner-area {
+		padding: 10rem 0;
+	}
+	.sg-single-search {
+		margin-top: 4rem;
+	}
+	.sg-dashboard-img {
+		margin-bottom: 1rem;
+	}
+
+}
+
+@media all and (max-width: 576px){
+	.sg-select-style {
+		width: 100%;
+	}
+	.sg-fullset-search span,
+	.sg-single-search span {
+		width: 100%;
+	}
+	.sg-banner-area h1 {
+		font-size: 2rem;
+	}
+	.sg-fullset-search h2,
+	.sg-single-search h2 {
+		font-size: 2rem;
+	}
+	.sg-register-profile {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.ar-register-form.ar-form { 
+		padding: 1rem !important;
+	}
+
+
+}
+ 
+ /*=============== SG  Reasponsive End ====================*/
+
+
+/*===================================== AR ========================*/
+
+ 
+
+
+
+
+/*=============Alif=====================*/
+
+/* AL About us area CSS  */
+@media all and (max-width:1200px){
+     
+       .box2,
+       .box5 {
+              left: 317px;
+       }
+}
+@media all and (max-width:991px){
+       .box2 {
+              left: 0;
+              top: 331px;
+       }
+       .box5 {
+              left: auto;
+              right: 0;
+              top: 331px;
+       }
+       .main-canvas {
+              height: 975px;
+	  }
+	  /* menu item image css  */
+	  .menu_item_img {
+		width: 20px;
+		height: 20px;
+	}
+	/* deshboad css  */
+	.sg-form-area {
+		margin-top: 29px !important;
+	}
+	.AL_myPost_area {
+		margin-top: 25px;
+	}
+	.ar-about-card {
+		margin-top: 25px;
+	}
+}
+
+@media all and (max-width:767px){
+       .box3{
+              top: 662px;
+       }
+       
+       .box4{
+              top: auto;
+              bottom: 662px;
+       }
+       .box5{
+              top: auto;
+              bottom: 331px;
+              left: 0;
+       }
+       .box6{
+              bottom: 0px;
+       }
+       .main-canvas {
+              height: 1969px;
+	  }
+	  .sk-about-info {
+		padding-top: 30px;
+	}
+}
+/* user porfile css Alif */
+@media all and (max-width:576px){
+	.sg-dashboard-img {
+		width: 130px;
+		height: 130px;
+	}
+	.sg-dashboard-profile {
+		bottom: 30%;
+		left: 50%;
+		-webkit-transform: translateX(-50%);
+		        transform: translateX(-50%);
+	}
+	.sg-dashboard-title {
+		bottom: 17%;
+		right: 50%;
+		-webkit-transform: translateX(50%);
+		        transform: translateX(50%);
+	}
+	.sg-dashboard-title h3 {
+		font-size: 22px;
+	}
+	.AL_upload_file .fas.fa-edit {
+		font-size: 8px;
+		top: 50%;
+		right: 3%;
+	}
+	.AL_upload_file:hover .fas.fa-edit {
+		top: 60%;
+		right: 43%;
+	}
+	.AL_upload_file .submit {
+		bottom: -0%;
+		font-size: 10px;
+	}
+	.sk-about-info h2 {
+		font-size: 2.5rem;
+	}
+
+	/* php error massage  */
+	#phpAlert {
+		padding: 10px 5px;
+		font-size: 11px;
+	}
+}
+@media all and (max-width:366px){
+	.main-canvas {
+		height: 2113px;
+	}
+	.card-text {
+		padding: 0;
+	}
+	.box2 {
+		top: 360px;
+	}
+	.box3 {
+		top: 720px;
+	}
+	.box4 {
+		top: auto;
+		bottom: 720px;
+	}
+	.box5 {
+		top: auto;
+		bottom: 360px;
+		left: 0;
+	}
+
+}
+
+/*============= AR =====================*/
+
+
+@media all and (max-width: 991px){
+	/*login-form*/
+	.ar-login-form {
+		 max-width: 100%; 
+	}
+	.register-avata-img {
+		padding: 30px;
+		padding-right: 20px;
+	}
+	.login-avata-left {
+		padding-top: 50px;
+		padding-right: 60px;
+	}
+	/*register img*/
+	.register-avata-img {
+		padding-right: 30px;
+		padding-top: 100px;
+	}
+
+	/*user-profile*/
+	.ar-profile-box img {
+		width: 30%;
+	}
+	.ar-profile-content p {
+		width: 60%;
+		left: 0;
+		right: 0;
+		margin: auto;
+	}
+}
+@media all and (max-width: 768px){
+	/*register-form*/
+	.ar-register-form {
+		 max-width: 100%; 
+		width: 100%;
+	}
+	/*register-img*/
+	.register-avata-img {
+		padding: 30px;
+		padding-right: 20px;
+	}
+	/*login-img*/
+	.login-avata-left {
+		padding: 30px;
+		padding-right: 10px;
+	}
+
+	/*update-profile*/
+	.ar-up-profile {
+		padding: 10px 10px;
+	}
+}
+@media all and (max-width: 576px){
+
+	/*register-form*/
+	.ar-register-form h2, .ar-login-form h2 {
+		font-size: 18px;
+	}
+	.ar-register-form {
+		padding: 50px 30px;	
+	}
+	.ar-form-area {
+		padding: 0px;
+	}
+
+	/*login-form*/
+	.ar-login-form {
+		padding: 50px 30px;
+	}
+	.ar-form-login-area {
+	 padding: 0px; 
+}
+
+
+	/*update-profile*/
+	.ar-up-profile {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: start;
+		        align-items: start;
+	}
+	.ar-up-profile label {
+		max-width: 100%;
+	}
+	/*profile-all*/
+	.nav {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.nav-tabs .nav-link {
+		 border: none;
+	 } 
+	 .nav-tabs {
+		border-bottom: none;
+	}
+	.nav-tabs .nav-link {
+		border: none;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #ddd;
+		margin-bottom: 10px;
+	}
+	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+		border-color: #dee2e6 #dee2e6 #ddd;
+	}
+
+
+	/*update-menu*/
+	.ar-about-menu ul{
+	  display: -webkit-box;
+	  display: -ms-flexbox;
+	  display: flex;
+	  -webkit-box-orient: vertical;
+	  -webkit-box-direction: normal;
+	      -ms-flex-direction: column;
+	          flex-direction: column;
+	}
+	.ar-about-menu ul li a{
+		border-bottom: 1px solid #2c3e50;
+		padding-top: 15px;
+	}
+	.ar-about-menu ul li a:last-child{
+		border-bottom: none;
+	}
+	.ar-about-menu ul li a:hover:after {
+	  background: none;
+	}
+}
+
+
+/*SH-Responsive deisng*/
+
+@media all and (max-width: 460px){
+	.col-6{
+		width:100%;
+	}
+	.sh_card-img img {
+		max-height: 40rem;
+	}
+	.sh_card {
+		margin-bottom: 2rem;
+	}
+	.sh_semester h3 {
+		font-size: 26px;
+	}.technology h2 {
+		font-size: 2.5rem;
+	}
+}
+
+
+
+
+/*shakil responsive*/
+
+@media all and (max-width: 991px){
+	.footer-oubs-style { 
+		top: -45%; 
+	}
+}
+@media all and (max-width: 767px){
+	.footer-oubs-style h1 { 
+		font-size: 12rem; 
+	}
+	.footer-oubs-style {
+		top: -28%;
+	}
+	.footer-area .col-md-4 {
+		text-align: center;
+	}
+	.footer-area .footer-right {
+		text-align: center !important;
+	}
+	.footer-details h3 { 
+		margin-bottom: 0.5rem; 
+	}
+	.sk-contact-text h2 {
+		padding: 14rem 0 8rem 0; 
+	}
+	.sk-contact {
+		padding: 2rem; 
+	}
+	.sk-single-social {
+		margin-bottom: 1rem;
+	}
+}
+@media all and (max-width: 576px){ 
+	.footer-oubs-style h1 {
+		font-size: 7rem;
+	}
+	.footer-oubs-style {
+		top: -17%;
+	}
+	.ar-form-area { 
+		padding: 2rem !important;
+	}
+	.footer-area { 
+		margin-top: 7rem;
+	}
+	.ar-login-form h2, .ar-form-area h2 { 
+		font-size: 3rem !important; 
+	}
+	.cl-effect-19 .skl { 
+		 margin: 0 0;  
+	}
+	.sk-button-left {
+		margin-bottom: 1rem;
+	}
+}
+
+
+
+
+
+
+/*shanto buy book responsive*/
+
+
+/*Default*/
+#zoom_04 {
+    /*width:800px ;*/
+}
+
+.responsive_default {
+    display:inline-block;
+    color: #159957;
+}
+.responsive_100, .responsive_600, .responsive_800 {
+    display:none;
+    color: #159957;
+}
+
+/*Target devices 100-599px*/
+@media only screen and  (min-width: 100px) and (max-width: 599px) {
+	.buy-b-img {
+		height: 40rem;
+	}
+    #zoom_04 {
+        /*width:300px ;*/
+    }
+
+    .responsive_100 {
+        display:inline-block;
+    }
+    .responsive_default {
+        display:none;
+    }
+
+}
+/*Target devices 600-799 width*/
+@media only screen and (min-width: 600px) and (max-width: 991px) {
+	.buy-b-img {
+		height: 47rem;
+	}
+    #zoom_04 {
+        /*width:450px;*/
+    }
+
+    .responsive_600 {
+        display:inline-block;
+    }
+    .responsive_default {
+        display:none;
+    }
+}
+
+/*Target devices 800-1199px*/
+@media only screen and  (min-width: 992px) and (max-width: 1199px) {
+
+    #zoom_04 {
+        /*width:600px ;*/
+    }
+
+    .responsive_800 {
+        display:inline-block;
+    }
+    .responsive_default {
+        display:none;
+    }
+
+}/*Target devices 800-1199px*/
+@media only screen and  (min-width: 1200px) and (max-width: 1900px) {
+
+    #zoom_04 {
+        /*width:600px ;*/
+    }
+
+    .responsive_800 {
+        display:inline-block;
+    }
+    .responsive_default {
+        display:none;
+    }
+
+}

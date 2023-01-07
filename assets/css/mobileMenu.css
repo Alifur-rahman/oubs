@@ -1,0 +1,116 @@
+.AL_mobile_button {
+	display: none;
+}
+.mobile_menu {
+	z-index: 99999999999;
+	position: fixed;
+	background: var(--header-bg);
+	width: 100%;
+	height: 100vh;
+	display: none;
+	padding: 25px;
+	left: -100%;
+	transition: 1s;
+}
+.AL_pt_ul {
+	position: relative;
+}
+.AL_pt_li{
+     padding-top: 8rem;
+}
+.mobile_menu ul li a {
+	display: inline-block;
+	color: var(--background);
+	font-size: 20px;
+	width: 100%;
+	padding: 10px 20px;
+	margin: 2px 0;
+	border-radius: 6px;
+	transition: .4s;
+}
+
+.mobile_menu ul li a:hover {
+	box-shadow: 1px 1px 4px #eee;
+	transform: scaleY(1.1);
+}
+
+.mobile_menu .AL_mobile_button {
+	position: absolute;
+	right: 4%;
+	color: var(--background);
+	border: 1px solid var(--background);
+	transition: .4s;
+}
+.mobile_menu .AL_mobile_button:hover{
+     box-shadow: 1px 1px 4px #eee;
+}
+/* mega menu desing  */
+.Al_down_menu {
+	background: #282222;
+	border-radius: 0px 0px 6px 6px;
+	display: none;
+	box-shadow: 0px 1px 3px #eee;
+	padding: 0 30px;
+}
+
+.Al_down_menu li a {
+	font-size: 15px !important;
+}
+.Al_down_menu li a div {
+	display: inline-block;
+	text-align: center;
+}
+.sk_chavron {
+	font-size: 15px;
+	transition: .2s;
+	transform: rotate(-90deg); 
+}
+.menu ul li:hover .sk_chavron {
+	transform: rotate(0deg);
+}
+.AL_chavron {
+	font-size: 15px;
+	transition: .4s;
+	float: right; 
+}
+.ALtoggleClass {
+	box-shadow: 0px -1px 4px #eee;
+	border-radius: 6px 6px 0px 0px !important;
+}
+.ALchavronClass {
+	transform: rotate(90deg);
+}
+/* responsive desing */
+
+@media all and (max-width:991px){
+     .header-area .menu {
+          display: none;
+     }
+
+     .header-area .logo {
+          display: flex;
+          justify-content: space-between;
+          align-content: center;
+          align-items: center;
+     }
+     .AL_mobile_button {
+          display: block !important;
+          color: var(--background);
+          border: 1px solid var(--background);
+          padding: 2px 9px;
+          font-size: 23px;
+          border-radius: 7px;
+          cursor: pointer;
+     }
+     .mobile_menu{
+          display: block;
+     }
+}
+@media all and (max-width:576px){
+     .mobile_menu ul li a {
+          font-size: 14px;
+     }
+     .Al_down_menu li a {
+          font-size: 12px !important;
+     }
+}
