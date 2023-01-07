@@ -1,0 +1,631 @@
+[01-Feb-2021 04:25:32 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:38 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:39 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:39 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:41 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:41 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:44 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:25:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:00 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:04 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:04 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:19 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:19 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:21 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:21 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:49 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:51 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:51 America/New_York] PHP Notice:  Undefined variable: pdo in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 8
+[01-Feb-2021 04:36:26 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:26 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:29 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:30 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:30 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:31 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:32 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:34 America/New_York] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 04:36:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 3
+[01-Feb-2021 15:48:32 Asia/Dhaka] PHP Notice:  Undefined variable: headers in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 22
+[01-Feb-2021 15:48:32 Asia/Dhaka] PHP Warning:  mail(): headers parameter must be string or array in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot.php on line 22
+[01-Feb-2021 15:48:41 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:48:45 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:49:16 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:49:16 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 13
+[01-Feb-2021 15:50:48 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:50:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:50:53 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:50:53 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:50:56 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:50:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:51:43 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:51:43 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:52:25 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:52:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:52:31 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:52:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:53:20 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:53:20 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 15:54:37 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:54:37 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 13
+[01-Feb-2021 15:55:02 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:55:40 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:59:18 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 15:59:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 04:59:39 America/New_York] PHP Fatal error:  Redefinition of parameter $sect in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 3
+[01-Feb-2021 16:00:58 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:25:21 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:25:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:26:00 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:26:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:26:50 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:26:50 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:26:52 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:26:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:28:04 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:28:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:28:10 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:28:10 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 16:28:37 Asia/Dhaka] PHP Warning:  PDOStatement::execute() expects at most 1 parameter, 2 given in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 6
+[01-Feb-2021 16:28:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[01-Feb-2021 17:38:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 17:38:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::rowCownt() in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 11
+[01-Feb-2021 08:30:07 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:12 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:14 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:14 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:15 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:20 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[01-Feb-2021 08:30:20 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 02:30:19 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/codepbxn/oubs.coderit.fun/devlop/ajax_change_password.php on line 17
+[02-Feb-2021 02:31:05 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/codepbxn/oubs.coderit.fun/devlop/ajax_change_password.php on line 15
+[02-Feb-2021 02:54:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/codepbxn/oubs.coderit.fun/devlop/ajax_change_password.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajax_change_password.php on line 23
+[02-Feb-2021 11:26:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:26:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:26:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:27:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:28:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:29:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:29:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function U_booksCount() in /home/codepbxn/oubs.coderit.fun/devlop/function.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:29:26 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:37:03 Asia/Dhaka] PHP Notice:  Undefined index: $col in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 11:37:39 Asia/Dhaka] PHP Notice:  Undefined index: $col in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 31
+[02-Feb-2021 00:41:02 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 32
+[02-Feb-2021 11:27:42 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:27:47 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:27:49 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:14 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:15 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:15 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:17 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:17 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:17 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:17 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:18 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:26 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:28 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:30 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:39:31 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:40:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:23 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:24 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:24 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:24 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:25 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:25 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:25 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:26 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:26 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[02-Feb-2021 11:44:26 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-forgot-code.php on line 13
+[03-Feb-2021 14:45:23 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdate.php on line 5
+[03-Feb-2021 21:21:49 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:25:39 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:26:45 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:29:03 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:29:41 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:31:24 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 5
+[03-Feb-2021 21:33:43 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 8
+[03-Feb-2021 21:33:48 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 8
+[03-Feb-2021 21:34:40 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 8
+[03-Feb-2021 21:35:45 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 8
+[03-Feb-2021 21:36:25 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 8
+[03-Feb-2021 10:48:16 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:20 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:20 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:20 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:20 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:54 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:55 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:18 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:22 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:22 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 10:50:22 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxUpdateProfile.php on line 14
+[03-Feb-2021 21:55:44 Asia/Dhaka] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailVerify.php on line 5
+[03-Feb-2021 21:55:49 Asia/Dhaka] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailVerify.php on line 5
+[03-Feb-2021 21:57:57 Asia/Dhaka] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailVerify.php on line 5
+[03-Feb-2021 22:02:37 Asia/Dhaka] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailVerify.php on line 5
+[03-Feb-2021 22:03:46 Asia/Dhaka] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailVerify.php on line 5
+[03-Feb-2021 23:16:44 Asia/Dhaka] PHP Notice:  Undefined variable: _SESSION in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailCodeVerify.php on line 2
+[03-Feb-2021 23:21:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function user_details() in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailCodeVerify.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailCodeVerify.php on line 6
+[03-Feb-2021 23:21:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function user_details() in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailCodeVerify.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/oubs.coderit.fun/devlop/ajaxEmailCodeVerify.php on line 6
+[04-Feb-2021 04:10:15 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:10:18 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:10:20 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:10:20 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:10:21 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:29 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:31 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:31 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:31 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:32 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:32 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:13:32 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:07 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:08 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:08 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:09 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:12 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:12 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:17 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:14:18 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:15:03 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:15:04 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:15:05 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:15:59 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:16:02 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:16:02 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 04:16:03 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/codepbxn/oubs.coderit.fun/devlop/ajax-sold-status.php on line 9
+[04-Feb-2021 22:05:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[04-Feb-2021 22:05:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/oubs.coderit.fun/devlop/function.php on line 8
+[04-Feb-2021 12:16:02 America/New_York] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxRegistration.php on line 10
+[04-Feb-2021 12:16:11 America/New_York] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxRegistration.php on line 10
+[04-Feb-2021 12:16:26 America/New_York] PHP Parse error:  syntax error, unexpected 'H' (T_STRING), expecting ',' or ')' in /home/codepbxn/oubs.coderit.fun/devlop/ajaxRegistration.php on line 10
+[04-Feb-2021 23:18:04 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/codepbxn/oubs.coderit.fun/devlop/ajaxRegistration.php on line 26

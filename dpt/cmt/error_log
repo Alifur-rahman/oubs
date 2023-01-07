@@ -1,0 +1,2 @@
+[02-Feb-2021 14:17:34 Asia/Dhaka] PHP Warning:  require_once(footer.php): failed to open stream: No such file or directory in /home/codepbxn/oubs.coderit.fun/dpt/cmt/CMT.php on line 450
+[02-Feb-2021 14:17:34 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'footer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/codepbxn/oubs.coderit.fun/dpt/cmt/CMT.php on line 450
