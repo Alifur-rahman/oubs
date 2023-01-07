@@ -8,3 +8,6 @@ Here any kind of old books can be bought and sold online very easily from now on
 বাংলাদেশে এই প্রথম অনলাইনে পুরাতন বই ক্রয় বিক্রয়ের ওয়েবসাইট OUBS চালু হয়েছে। 
 আমরা জানি যে পুরাতন বই বিক্রেতাদের এবং ক্রেতাদের সন্ধান করা কিছুটা জটিল। সুতরাং এই কঠিন কাজটি আরও সহজ করার জন্য, আমরা একটি অনলাইন ব্যবহৃত বুক স্টোর নিয়ে এসেছি। 
 এখানে যেকোন ধরনের পুরাতন বই এখন থেকে খুব সহজেই অনলাইনে ক্রয়-বিক্রয় করা যায়। তাই পুরাতন বই ক্রয় -বিক্রয় করার জন্য সম্পূর্ণ ভিডিওটি দেখুন এবং ওয়েবসাইট টি ভিজিট করুন ।
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHello_%2528yellow%2529.svg&psig=AOvVaw2sB-OyH4rilTiUsKMcCyKj&ust=1673204628575000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiNkI6TtvwCFQAAAAAdAAAAABAE
